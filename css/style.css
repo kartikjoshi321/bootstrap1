@@ -69,3 +69,15 @@ body.modal-open {
     left: 0;
     min-height: 300px;
 }
+
+ .modal-lg 
+ {
+          width: 620px; /* New width for large modal */
+ }
+
+ .btn-light
+ {
+ 	background-color:white;
+ 	border:1px solid #DCDCDC;
+
+ }
